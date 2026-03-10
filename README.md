@@ -118,9 +118,7 @@ Building scalable web applications using React, Node.js, Express, and MongoDB.
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shehzadahmed123&theme=radical"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Shehzadahmed123&theme=tokyonight)
 
 # 👀 Profile Views
 
