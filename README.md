@@ -15,7 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shehzadahmed123&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Shehzadahmed123&icon=0&color=0)](https://visitcount.itsvg.in)
+# 👀 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=Shehzadahmed123&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
