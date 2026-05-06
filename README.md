@@ -5,7 +5,7 @@
 Building scalable web applications using React, Node.js, Express, and MongoDB.
 </p>
 <p align="center">
-<a href="https://shehzadahmedportfolio.netlify.app/">
+<a href="https://shehzadahmedportfolio.netlify.app/" target="_blank">
   https://shehzadahmedportfolio.netlify.app/
 </a>
 </p>
